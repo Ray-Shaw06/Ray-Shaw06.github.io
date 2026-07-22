@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ray-shaw06.github.io/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/story/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/craft/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/contact/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/zabarwan-dusk/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/dal-reflection/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/saffron-garden/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/chinar-ember/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/wular-mist/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/pir-panjal-bloom/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/moonlit-boteh/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/almond-grove/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/srinagar-nocturne/</loc></url>
-  <url><loc>https://ray-shaw06.github.io/collection/changthang-cloud/</loc></url>
+<url>
+<loc>https://ray-shaw06.github.io</loc>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://ray-shaw06.github.io/story</loc>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ray-shaw06.github.io/craft</loc>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ray-shaw06.github.io/collection</loc>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ray-shaw06.github.io/contact</loc>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ray-shaw06.github.io/collection/kani</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ray-shaw06.github.io/collection/sozni</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ray-shaw06.github.io/collection/jamawar</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ray-shaw06.github.io/collection/pashmina</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
 </urlset>
